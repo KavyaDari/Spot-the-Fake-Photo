@@ -1,0 +1,9 @@
+real/
+screen/
+*.heic
+*.HEIC
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+test_real.jpg
+test_screen.jpg

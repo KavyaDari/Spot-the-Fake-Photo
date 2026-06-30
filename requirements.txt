@@ -1,0 +1,6 @@
+numpy
+opencv-python-headless
+scikit-learn
+scipy
+pillow
+pillow-heif
