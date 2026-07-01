@@ -8,7 +8,7 @@ Usage:
 Expects two folders of images.  After training it writes model_weights.npz
 which predict.py will auto-load.
 
-Outputs cross-validated accuracy so you have an honest number to report.
+Outputs cross-validated accuracy.
 """
 
 import argparse

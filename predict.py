@@ -5,7 +5,6 @@ Usage:  python predict.py <image_path>
 Output: a float in [0, 1]   (0 = real photo,  1 = photo of a screen)
 
 Approach: hybrid classical-CV feature extraction + logistic regression.
-No GPU, no heavy model weights.  ~5-15 ms on a laptop CPU.
 """
 
 import sys
